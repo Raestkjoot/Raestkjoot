@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQGOu8zXjkvTbw/profile-displaybackgroundimage-shrink_350_1400/0/1621885116018?e=1704931200&v=beta&t=yw4ziF4R8v0_UgaB2cwwyh4y1_516dceX1CH2Igz4Ig" width="400">
-
 ## Gunnar Magnussen
 My name is Gunnar and I make games. Making games includes so many interesting art forms and I find that the people who share this hobby are usually super interesting and amazing people. Other forms of making I also enjoy include: drawing, painting, video editing, sewing and cosplay.
 
@@ -20,6 +18,8 @@ Here is a letter of recommendation I received from the Executive Producer and De
 ### Lead Programmer at Ultima Studios
 [Company Website](https://ultimastudios.com/)
 
+ <img src='https://github.com/Raestkjoot/Raestkjoot/blob/main/UltimaStudiosLogo.png' width='300'>
+ 
 This is a passion project with about 20 people working on it, being developed in Unreal Engine and features a blend of 2D and 3D art assets.
 I like to stay well organized and know that that is especially important for big projects, such as this one. Because there are so many people involved, it was necessary to have some leadership structure, so, after I had been with the studio for a few months, I was promoted to lead programmer for my organizational skill, as well as my knowledge of how to handle bigger projects. As the lead programmer I participate in leadership meetings, lead the programmer scrum meetings and keep an overview of the whole project from a technical perspective, ensuring best practices and standards as well as making sure that all the programmers follow a structure that will lead us to produce a good game. I also spent much of my time on the project implementing functionalities and other general development tasks. For example, I implemented a system for what way the character should be facing in the sprite image, based on the unit orientation and camera orientation. 
 
@@ -28,12 +28,16 @@ I like to stay well organized and know that that is especially important for big
  | [Gamejolt Page](https://gamejolt.com/games/archeryCodeCh/628090)
  | [Repository](https://github.com/Raestkjoot/ArcheryCodingChallenge)
 
+ <img src='https://github.com/Raestkjoot/Raestkjoot/blob/main/ArcheryChallScrShot.png' width='300'>
+ 
 A short coding challenge developed in Unity over a weekend. The objective was to make a basic game where the player can shoot arrows at a target, focusing on making the hit feel really good to the player. To make shooting feel good, I put emphasis on  hit effects and on controls, making it easy to aim and providing a feeling of control.
 
 ### Global Game Jam 2022
 [Gameplay Footage](https://youtu.be/ypD3zoMSCNM)
  | [Jam Page](https://globalgamejam.org/2022/games/last-walk-9)
  | [Repository](https://github.com/Raestkjoot/GGJ22)
+
+ <img src='https://github.com/Raestkjoot/Raestkjoot/blob/main/LastWalkScrShot.png' width='300'>
  
 I participated in the Global Game Jam together with 5 other people.
 I have participated in various game jams including Ludum Dare for individuals, and jams for teams, such as Global Game Jam, Nordic Game Jam, and Føroya Tele Game Jam, which is a game jam in the Faroe Islands that I participated in from the first time it was held in 2013 and until I moved to Denmark for my studies.

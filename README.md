@@ -1,5 +1,4 @@
 ### Gunnar Magnussen
-#### Game Development
 <img src="https://media.licdn.com/dms/image/C4E16AQGOu8zXjkvTbw/profile-displaybackgroundimage-shrink_350_1400/0/1621885116018?e=1704931200&v=beta&t=yw4ziF4R8v0_UgaB2cwwyh4y1_516dceX1CH2Igz4Ig" width="400">
 
 My name is Gunnar and I make games. Making games includes so many interesting art forms and I find that the people who share this hobby are usually super interesting and amazing people. Other forms of making I also enjoy include: drawing, painting, video editing, sewing and cosplay.

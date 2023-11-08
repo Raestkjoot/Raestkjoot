@@ -14,7 +14,8 @@ Skills: C# / C++ / Unity / UE5 / Game Development / Computer Graphics
 ## Portfolio
 ### QA Tester Intern at BetaDwarf
 At BetaDwarf I gained knowledge and experience with agile development, and how games are developed and kept stable throughout continuous expansions. I performed various tasks including manual testing, interacting with users and writing automated tests. I got to work on three different projects in three different key parts of development: early, close to release, and released with regular updates. I also gained valuable insight into how games are made in a professional setting, and exactly what competencies are required of the best programmers in this industry.
-While working for BetaDwarf I made new connections with the people working there, resulting in possible job offers once I finish my education, as well as being friends with people that are interested in and knowledgable about game development. Here is a letter of recommendation I received from the Executive Producer and Designer at BetaDwarf:
+
+Here is a letter of recommendation I received from the Executive Producer and Designer at BetaDwarf:
 
 
 ## Socials

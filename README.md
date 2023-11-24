@@ -1,3 +1,4 @@
+<!---
 ## Gunnar Magnussen
 My name is Gunnar and I make games. Making games includes so many interesting art forms and I find that the people who share this hobby are usually super interesting and amazing people. Other forms of making I also enjoy include: drawing, painting, video editing, sewing and cosplay.
 
@@ -44,4 +45,5 @@ I have participated in various game jams including Ludum Dare for individuals, a
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raestkjoot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gunnar-magnussen-2b2701197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gunnvarn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCmSU_-dogrw5hpArPNgaegQ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raestkjoot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gunnar-magnussen-2b2701197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gunnvarn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCmSU_-dogrw5hpArPNgaegQ) 
+--->
